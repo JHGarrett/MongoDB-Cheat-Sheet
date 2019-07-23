@@ -17,7 +17,7 @@ db
 ## Create Or Switch Database
 
 ```
-use acme
+use atlas
 ```
 
 ## Drop
